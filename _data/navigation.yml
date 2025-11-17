@@ -11,6 +11,10 @@ main:
 
   - title: "Presentations and Posters"
     url: "/#presentations"
+
+    - title: "Service"
+    url: "/#service"
+
     
   - title: "Awards"
     url: "/#awards"
