@@ -28,20 +28,76 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 - *2025.01*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000096" target="_blank">paper</a> was accpeted by *Photoacoustics*.
 
 # 📝 Selected Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Photoacoustics 2025</div>
+    <img src='images/radiomics.TIF' alt='paper image' width='100%'>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Radiomics-driven perfusion prediction in clinical photoacoustic foot imaging**  
+**Chuqin Huang**, Yanda Cheng, Xiaoyu Zhang, Ye Zhan, Wenhan Zheng, Isabel Komornicki, Linda M. Harris, Wenyao Xu, and Jun Xia. *Photoacoustics/2025*  
+[Paper](https://www.sciencedirect.com/science/article/pii/S2213597925000990)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  </div>
 </div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Photoacoustics 2025</div>
+    <img src='images/Skin Segmentation.TIF' alt='paper image' width='100%'>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Enhanced clinical photoacoustic vascular imaging through a skin localization network and adaptive weighting**  
+**Chuqin Huang**, Emily Zheng , Wenhan Zheng , Huijuan Zhang , Yanda Cheng , Xiaoyu Zhang , Varun Shijo , Robert W. Bing , Isabel Komornicki , Linda M. Harris , Ermelinda Bonaccio , Kazuaki Takabe , Emma Zhang , Wenyao Xu , and Jun Xia. *Photoacoustics/2025*  
+[Paper](https://www.sciencedirect.com/science/article/pii/S2213597925000096)
+
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>IEEE TMI 2025</div>
+    <img src='images/OneTouch.gif' alt='paper image' width='100%'>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**OneTouch Automated Photoacoustic and Ultrasound Imaging of Breast in Standing Pose**  
+Huijuan Zhang, Emily Zheng, Wenhan Zheng, **Chuqin Huang**, Yunqi Xi, Yanda Cheng, Shuliang Yu, Saptarshi Chakraborty, Ermelinda Bonaccio, Kazuaki Takabe, Xinhao C. Fan, Wenyao Xu, and Jun Xia. *IEEE TMI/2025*  
+[Paper](https://ieeexplore.ieee.org/abstract/document/11033214)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>Advanced Science 2023</div>
+    <img src='images/3DFDUNet.jpg' alt='paper image' width='100%'>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Deep Learning Enhanced Volumetric Photoacoustic Imaging of Vasculature in Human**  
+Wenhan Zheng, Huijuan Zhang, **Chuqin Huang**, Varun Shijo, Chenhan Xu, Wenyao Xu, and Jun Xia. *Advanced Science/2023*  
+[Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202370199)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class='badge'>IEE T-UFFC 2023</div>
+    <img src='images/foot.jpg' alt='paper image' width='100%'>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Dual-Scan Photoacoustic Tomography for the Imaging of Vascular Structure on Foot**  
+**Chuqin Huang**, Yanda Cheng, Wenhan Zheng, Robert W. Bing, Huijuan Zhang, Isabel Komornicki, Linda M. Harris, Praveen R. Arany, Saptarshi Chakraborty, Qifa Zhou, Wenyao Xu, and Jun Xia. *IEEE T-UFFC/2023*  
+[Paper](https://ieeexplore.ieee.org/abstract/document/10144407)
+
+  </div>
+</div>
 
 # 💬 Presentations and Posters
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
