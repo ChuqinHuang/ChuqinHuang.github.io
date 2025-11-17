@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-//Under construction//
-
 Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at Buffalo, supervised by <a href="https://www.acsu.buffalo.edu/~junxia/" target="_blank">Dr. Jun Xia</a>. He received his M.S. in Mechanical Engineering from the University of Washington, advised by <a href="http://depts.washington.edu/hplab/" target="_blank">Dr. Eric J. Seibel</a>, and his B.E. in Mechanical Engineering from Huazhong University of Science and Technology. His research focuses on photoacoustic imaging and ultrasound imaging, with interests in biomedical signal and image processing, quantitative validation, and system integration. He has developed imaging systems and algorithms for quantitative analysis and clinical translation, and has authored more than 10 peer-reviewed publications in high-impact journals. <a href="https://scholar.google.com/citations?user=EddFQ0AAAAAJ" target="_blank"><img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" width="20" style="vertical-align:middle;"></a>
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Our work was presented in the 2025 RCBU Biomedical Ultrasound Symposium Day. 
 - *2025.10*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000990" target="_blank">paper</a> was accpeted by *Photoacoustics*.
-- *2025.04*: &nbsp;🎉🎉 Our work was presented in SAWC Spring 2025.
+- *2025.05*: &nbsp;🎉🎉 Our work was presented in SAWC Spring 2025.
 - *2025.01*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000096" target="_blank">paper</a> was accpeted by *Photoacoustics*.
 
 # 📝 Selected Publications 
@@ -100,8 +98,13 @@ Wenhan Zheng, Huijuan Zhang, **Chuqin Huang**, Varun Shijo, Chenhan Xu, Wenyao X
 </div>
 
 # 💬 Presentations and Posters
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.11*, “Photoacoustic Imaging based Radiomics for the Prediction of Foot Tissue Perfusion in Patients.” 2025 RCBU Biomedical Ultrasound Symposium Day.
+- *2025.05*, “Quantitative Photoacoustic Feature Analysis for Vascular Monitoring in Foot Ulcers.” SAWC Spring 2025.
+- *2025.11*, “Advancing Clinical Photoacoustic Vascular Imaging Based on Skin Segmentation and Adaptive Weighting.” 2024 RCBU Biomedical Ultrasound Symposium Day.
+- *2024.05*, “Investigating molecular fingerprints of human tissue using multi-spectral photoacoustic imaging.” CITeR Spring 2024.
+- *2023.09*, “In-Vivo Foot Imaging via Dual-Scan 3D Photoacoustic Tomography.” The 2023 International Ultrasonics Symposium.
+- *2020.03*, “Optical imaging of dental plaque pH.” Proc. SPIE 11315, Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling.
+
 
 # 👨‍🎓 Service
 - Reviewer of *Photoacoustics*, *Biomedical Optics Express*, *Optics Letters*, *Optics Express*, *Applied Optics*, *Signal, Image, and Video Processing*, *The Journal of Supercomputing*.
