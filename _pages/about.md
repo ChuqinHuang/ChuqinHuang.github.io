@@ -19,18 +19,15 @@ redirect_from:
 
 //Under construction//
 
-Chuqin Huang is a Ph.D. candidate in Biomedical Engineering Department at the University at Buffalo, under the supervision of Dr. Jun Xia,
-
-Ph.D. candidate in Biomedical Engineering at the University at Buffalo with expertise in photoacoustic imaging, ultrasound imaging, and biomedical image processing. Developed innovative imaging systems and algorithms deployed in clinical settings, with over 10 peer-reviewed publications in high-impact journals. Strong background in system design, machine learning for medical imaging, and translational research for clinical applications. <a href='https://scholar.google.com/citations?user=sEd6fQ0AAAAJ'> <img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" width="20" style="vertical-align:middle;"></a>
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at Buffalo, supervised by <a href="https://www.acsu.buffalo.edu/~junxia/" target="_blank">Dr. Jun Xia</a>. He received his M.S. in Mechanical Engineering from the University of Washington, advised by <a href="http://depts.washington.edu/hplab/" target="_blank">Dr. Eric J. Seibel</a>, and his B.E. in Mechanical Engineering from Huazhong University of Science and Technology. His research focuses on photoacoustic imaging and ultrasound imaging, with interests in biomedical signal and image processing, quantitative validation, and system integration. He has developed imaging systems and algorithms for quantitative analysis and clinical translation, and has authored more than 10 peer-reviewed publications in high-impact journals. <a href="https://scholar.google.com/citations?user=EddFQ0AAAAAJ" target="_blank"><img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" width="20" style="vertical-align:middle;"></a>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 Our work was presented in the 2025 RCBU Biomedical Ultrasound Symposium Day. 
+- *2025.10*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000990" target="_blank">paper</a> was accpeted by *Photoacoustics*.
+- *2025.04*: &nbsp;🎉🎉 Our work was presented in SAWC Spring 2025.
+- *2025.01*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000096" target="_blank">paper</a> was accpeted by *Photoacoustics*.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
