@@ -31,7 +31,7 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Photoacoustics 2025</div>
-    <img src='/images/radiomics.TIF' alt='paper image' width='100%'>
+    <img src='/images/radiomics.jpg' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -46,7 +46,7 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Photoacoustics 2025</div>
-    <img src='/images/Skin Segmentation.TIF' alt='paper image' width='100%'>
+    <img src='/images/Skin Segmentation.jpg' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
