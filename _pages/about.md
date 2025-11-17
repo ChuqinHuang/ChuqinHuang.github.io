@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About me
 <span class='anchor' id='about-me'></span>
 
 Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at Buffalo, supervised by <a href="https://www.acsu.buffalo.edu/~junxia/" target="_blank">Dr. Jun Xia</a>. He received his M.S. in Mechanical Engineering from the University of Washington, advised by <a href="http://depts.washington.edu/hplab/" target="_blank">Dr. Eric J. Seibel</a>, and his B.E. in Mechanical Engineering from Huazhong University of Science and Technology. His research focuses on photoacoustic imaging and ultrasound imaging, with interests in biomedical signal and image processing, quantitative validation, and system integration. He has developed imaging systems and algorithms for quantitative analysis and clinical translation, and has authored more than 10 peer-reviewed publications in high-impact journals. <a href="https://scholar.google.com/citations?user=EddFQ0AAAAAJ" target="_blank"><img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" width="20" style="vertical-align:middle;"></a>
