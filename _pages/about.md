@@ -31,7 +31,7 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Photoacoustics 2025</div>
-    <img src='images/radiomics.TIF' alt='paper image' width='100%'>
+    <img src='/images/radiomics.TIF' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -46,7 +46,7 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Photoacoustics 2025</div>
-    <img src='images/Skin Segmentation.TIF' alt='paper image' width='100%'>
+    <img src='/images/Skin Segmentation.TIF' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -60,7 +60,7 @@ Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>IEEE TMI 2025</div>
-    <img src='images/OneTouch.gif' alt='paper image' width='100%'>
+    <img src='/images/OneTouch.gif' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -74,7 +74,7 @@ Huijuan Zhang, Emily Zheng, Wenhan Zheng, **Chuqin Huang**, Yunqi Xi, Yanda Chen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Advanced Science 2023</div>
-    <img src='images/3DFDUNet.jpg' alt='paper image' width='100%'>
+    <img src='/images/3DFDUNet.jpg' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -88,7 +88,7 @@ Wenhan Zheng, Huijuan Zhang, **Chuqin Huang**, Varun Shijo, Chenhan Xu, Wenyao X
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>IEE T-UFFC 2023</div>
-    <img src='images/foot.jpg' alt='paper image' width='100%'>
+    <img src='/images/foot.jpg' alt='paper image' width='100%'>
   </div>
   <div class='paper-box-text' markdown="1">
 
