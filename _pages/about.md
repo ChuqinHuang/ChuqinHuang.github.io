@@ -21,12 +21,14 @@ redirect_from:
 Chuqin Huang is a Ph.D. candidate in Biomedical Engineering at the University at Buffalo, supervised by <a href="https://www.acsu.buffalo.edu/~junxia/" target="_blank">Dr. Jun Xia</a>. He received his M.S. in Mechanical Engineering from the University of Washington, advised by <a href="http://depts.washington.edu/hplab/" target="_blank">Dr. Eric J. Seibel</a>, and his B.E. in Mechanical Engineering from Huazhong University of Science and Technology. His research focuses on photoacoustic imaging and ultrasound imaging, with interests in biomedical signal and image processing, quantitative validation, and system integration. He has developed imaging systems and algorithms for quantitative analysis and clinical translation, and has authored more than 10 peer-reviewed publications in high-impact journals. <a href="https://scholar.google.com/citations?user=EddFQ0AAAAAJ" target="_blank"><img src="/images/Google_Scholar_logo.svg.png" alt="Google Scholar" width="20" style="vertical-align:middle;"></a>
 
 # 🔥 News
+<span class='anchor' id='news'></span>
 - *2025.11*: &nbsp;🎉🎉 Our work was presented in the 2025 RCBU Biomedical Ultrasound Symposium Day. 
 - *2025.10*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000990" target="_blank">paper</a> was accpeted by *Photoacoustics*.
 - *2025.05*: &nbsp;🎉🎉 Our work was presented in SAWC Spring 2025.
 - *2025.01*: &nbsp;🎉🎉 Our <a href="https://www.sciencedirect.com/science/article/pii/S2213597925000096" target="_blank">paper</a> was accpeted by *Photoacoustics*.
 
 # 📝 Selected Publications 
+<span class='anchor' id='publications'></span>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class='badge'>Photoacoustics 2025</div>
@@ -99,6 +101,7 @@ Wenhan Zheng, Huijuan Zhang, **Chuqin Huang**, Varun Shijo, Chenhan Xu, Wenyao X
 </div>
 
 # 💬 Presentations and Posters
+<span class='anchor' id='presentations'></span>
 - *2025.11*, “Photoacoustic Imaging based Radiomics for the Prediction of Foot Tissue Perfusion in Patients.” 2025 RCBU Biomedical Ultrasound Symposium Day.
 - *2025.05*, “Quantitative Photoacoustic Feature Analysis for Vascular Monitoring in Foot Ulcers.” SAWC Spring 2025.
 - *2025.11*, “Advancing Clinical Photoacoustic Vascular Imaging Based on Skin Segmentation and Adaptive Weighting.” 2024 RCBU Biomedical Ultrasound Symposium Day.
@@ -108,15 +111,19 @@ Wenhan Zheng, Huijuan Zhang, **Chuqin Huang**, Varun Shijo, Chenhan Xu, Wenyao X
 
 
 # 👨‍🎓 Service
+<span class='anchor' id='service'></span>
 - Reviewer of *Photoacoustics*, *Biomedical Optics Express*, *Optics Letters*, *Optics Express*, *Applied Optics*, *Signal, Image, and Video Processing*, *The Journal of Supercomputing*.
 
-# 🎖 Honors and Awards
+# 🎖 Awards
+<span class='anchor' id='awards'></span>
 - *2025.5* Graduate Student High Impact Award in Biomedical Engineering Department, University at Buffalo. 
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2021.09 - 2025.12 (expected)*, Ph.D. in Biomedical Engineering, University at Buffalo, Buffalo, NY, USA. 
 - *2018.09 - 2020.06*, M.S. in Mechanical Engineering, University of Washington, Seattle, WA, USA.
 - *2014.09 - 2018.06*, B.E. in Mechanical Design, Manufacturing and Automation, Wuhan, Hubei, China.
 
 # 💻 Internships
+<span class='anchor' id='internships'></span>
 - *2025.05 - 2025.08*, Research Intern in Optical Networking & Sensing Department, NEC Laboratories, America.
